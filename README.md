@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Max 👋
 
-<!--
-**arsham-asgarizadeh/arsham-asgarizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Laravel & Shopware Developer focused on scalable backend architecture and modern commerce systems.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PHP • Laravel • Shopware • Symfony • Redis • Docker • AWS • CI/CD
+
+## Engineering Focus
+
+- event-driven systems
+- async processing
+- API platforms
+- e-commerce infrastructure
+- performance optimization
+
+## Featured Projects
+
+### Laravel Commerce Core
+Enterprise commerce backend platform built with Laravel and Redis.
+
+### Shopware Enterprise Plugin
+Advanced Shopware extension with custom admin modules and queue processing.
+
+### Laravel Production Template
+Production-ready Docker and CI/CD setup for Laravel applications.
